@@ -49,6 +49,8 @@ An image is an ordered collection of root filesystem changes and the correspondi
 
 An image typically contains a union of layered filesystems stacked on top of each other. An image does not have state and it never changes.
 
+<br> <center> <img src="../Images/DockerObjects.png" height="200"> </center> </br>
+
 ## Docker Container
 
 A container is a runtime instance of an image—what the image becomes in memory when executed (that is, an image with state, or a user process).
