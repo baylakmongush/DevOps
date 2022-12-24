@@ -4,7 +4,7 @@
 
 ❗️`Every string is a layer in the image.`
 
-<center><img src="../Images/Dockerfile.png" width="200" height="200" width="400" align="center" ></center>
+<center><img src="../Images/Dockerfile.png" width="400" height="200" width="400" align="center" ></center>
 
 ### 🔺 FROM
 `Base Image` - image that we are going to use as a base for our image.
