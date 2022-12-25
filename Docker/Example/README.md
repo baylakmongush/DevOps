@@ -35,11 +35,25 @@ server {
 ```
 We use port 8899 in the nginx.conf file. We can change it to any port we want.
 
-## How to run
+## How to build the image 
 
 ```docker build -t demoapp:latest .```
 
+## How to push to Docker Hub
+
+```docker login```
+
+```docker tag demoapp:latest <logindockerhub>/demoapp:latest```
+
+```docker push <logindockerhub>/demoapp:latest```
+
+## How to run local image
+
 ```docker run --rm -it -p 8899:8899 -d demoapp:latest```
+
+## How to run image from Docker Hub
+
+```docker run --rm -it -p 8899:8899 -d <logindockerhub>/demoapp:latest```
 
 After that, you can access the app at http://localhost:8899
 
