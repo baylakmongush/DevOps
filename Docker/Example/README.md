@@ -45,4 +45,4 @@ After that, you can access the app at http://localhost:8899
 
 We see the following:
 
-![](..//Images/Example.png)
+<img width="770" alt="React-screenshot" src="https://user-images.githubusercontent.com/56039676/209478735-fc73dc49-e094-4dd4-b163-0080fb946e6e.png">
