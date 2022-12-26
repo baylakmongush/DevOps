@@ -33,7 +33,7 @@ server {
   }
 }
 ```
-We use port 8899 in the nginx.conf file. We can change it to any port we want.
+We use port 8899 in the nginx.conf file. You can change it to any port you want.
 
 ## How to build the image 
 
