@@ -13,5 +13,8 @@ DevOps is a set of practices that combines software development (Dev) and inform
 🔱 [Dockerfile](https://github.com/npetrelli/DevOps/blob/master/Docker/Dockerfile/README.md) </br>
 🔱 [Example](https://github.com/npetrelli/DevOps/blob/master/Docker/Example/README.md) </br>
 
+### 🌀 [Kubernetes]
 
+### 🌀 [Jenkins]
 
+### 🌀 [Ansible]
