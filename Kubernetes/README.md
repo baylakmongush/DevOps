@@ -1,6 +1,6 @@
 # Kubernetes
 
-### Kubernetes <img src="https://user-images.githubusercontent.com/56039676/209430955-69ee4e14-8f09-46c9-ac7d-25ef2bd8c80b.png" width="200" height="200" align="right" >
+### Kubernetes <img src="https://user-images.githubusercontent.com/56039676/211295316-bfa2481e-27eb-42fc-89c7-c0052d8b8f86.png" width="200" height="200" align="right" >
 
 Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 
