@@ -18,7 +18,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 - **Pods and container lifecycle** </br>
 
 
-#### 🌀 [Architecture]()
+#### 🌀 [Architecture](https://github.com/npetrelli/DevOps/blob/master/Kubernetes/Architecture/README.md)
 #### 🌀 [Components]()
 #### 🌀 [Commands]()
 #### 🌀 [Example]()
